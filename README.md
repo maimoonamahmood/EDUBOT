@@ -1,5 +1,5 @@
 # EDUBOT
-## Step-by-Step Guide on How to Use the Charge Route Application:
+## Step-by-Step Guide on How to Use the EDUBOT:
 ### 1.	Academic Query Interaction: "You:" General input field for asking questions to the chatbot.
  ![image](https://github.com/user-attachments/assets/7cc838ff-3d6d-40ec-b604-cc2c95647ed1)
 
